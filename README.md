@@ -7,7 +7,7 @@ O repositório está dividido em duas partes:
 - **`aula`**: o mesmo editor de texto em duas versões. A versão **antes** do padrão concentra toda a lógica em uma classe; a versão **depois** do padrão encapsula cada operação em um objeto. Há também uma extensão com **macros** (`MacroCommand`).
 - **`exercicio`**: aplicação do padrão a um domínio diferente, com **transações bancárias** (depósito, saque, transferência e lote de operações), desfazer/refazer e extrato.
 
-**Equipe:** [Eduardo Sorrigotti Tahara] · [Benjamim Manoel Silva]
+**Equipe:** [Eduardo Sorrigotti Tahara] · [Benjamim Silva Manoel]
 
 ---
 
