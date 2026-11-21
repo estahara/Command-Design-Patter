@@ -4,7 +4,7 @@ Exemplo em Java do padrão de projeto **Command** (GoF), desenvolvido para o sem
 
 O repositório mostra o mesmo editor de texto em duas versões: **antes** do padrão, com toda a lógica concentrada em uma classe, e **depois** do padrão, com cada operação encapsulada em um objeto. Há também uma extensão com **macros** (`MacroCommand`).
 
-**Equipe:** [Eduardo Sorrigotti Tahara] · [Benjamim Manoel Silva]
+**Equipe:** [Eduardo Sorrigotti Tahara] · [Benjamim Silva Manoel]
 
 ---
 
